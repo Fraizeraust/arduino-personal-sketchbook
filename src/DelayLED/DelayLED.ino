@@ -1,5 +1,5 @@
 /**
- * Filename: DelayLED.c
+ * Filename: DelayLED.ino
  * 
  * Purpose: Enable and disables each connected LED through the specific pins
  *          in a delayed fashion. 
